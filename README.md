@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GalanIonut
+- 👀 I’m interested in learning Python
+- 🌱 I’m currently learning Automation
